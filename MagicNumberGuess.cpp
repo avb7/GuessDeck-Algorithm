@@ -2,8 +2,8 @@
 // Date 25th May 2012
 
 /*
-    Card Guess
-    Objective- The user thinks of a card, the computer asks
+    Magic Number Guess
+    Objective- The user thinks of a number, the computer asks
                 a few questions and displays the card the user thought about.
  */
 
